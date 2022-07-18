@@ -6,7 +6,13 @@
 # Third party packages
 dvc
 dvc[gdrive]
-sklearn
-pandas
-pytest
+sklearn~=0.0
+pandas~=1.4.3
+pytest~=7.1.2
 flake8
+pyyaml~=6.0
+scikit-learn~=1.1.1
+numpy~=1.23.1
+joblib~=1.1.0
+flask~=2.0.3
+setuptools~=61.2.0
