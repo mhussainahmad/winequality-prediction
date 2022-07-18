@@ -1,5 +1,5 @@
 # Local package installation
--e .
+
 
 
 
@@ -9,4 +9,3 @@ dvc[gdrive]
 sklearn
 pandas
 pytest
-tox
