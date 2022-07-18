@@ -9,3 +9,4 @@ dvc[gdrive]
 sklearn
 pandas
 pytest
+flake8
