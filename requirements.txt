@@ -16,3 +16,4 @@ numpy
 joblib
 flask
 setuptools
+gunicorn
