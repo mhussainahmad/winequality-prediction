@@ -23,3 +23,13 @@ dvc init
 dvc add data_given/winequality.csv
 git add .
 git commit -m "first commit"
+
+
+create an artifcats folder
+
+mlflow server command -
+
+mlflow server \
+    --backend-store-uri sqlite:///mlflow.db \
+    --default-artifact-root ./artifacts \
+    --host localhost -p 5000
