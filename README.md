@@ -116,4 +116,3 @@ Python, pandas, scikit-learn, DVC, Flask, gunicorn, pytest, tox, flake8, GitHub 
 - The dataset is the red wine quality data from the UCI Machine Learning Repository (Cortez et al., 2009, "Modeling wine preferences by data mining from physicochemical properties"), with 1,599 samples; the quality column is renamed `TARGET`.
 - The project structure follows a public DVC + Flask MLOps tutorial; the web app's "source code" link points to the reference repository, [c17hawke/dvc-plus-cml-test](https://github.com/c17hawke/dvc-plus-cml-test).
 
-See also [mlops_main](https://github.com/mhussainahmad/mlops_main), an earlier project skeleton from the same period.
